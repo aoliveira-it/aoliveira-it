@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Arleson Oliveira  
 
-<!--
-**aoliveira-it/aoliveira-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🔐 Focado em **Segurança da Informação** e **Perícia Forense Digital**  
+💻 Explorando projetos em **redes, cibersegurança e automação**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Badges & Certificados
+
+Aqui estão alguns dos selos mais reconhecidos da **Cisco Networking Academy** que estou estudando:
+
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/0b3d3f77-0707-4f50-9ab6-1c06d1c07a1e/Cisco_Introduction_to_Cybersecurity.png)](https://www.credly.com/org/cisco/badge/introduction-to-cybersecurity)
+
+[![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/af8c6c47-2e37-4082-b9a9-3bb0f7afaf82/Cisco_Cybersecurity_Essentials.png)](https://www.credly.com/org/cisco/badge/cybersecurity-essentials)
+
+[![Networking Essentials](https://images.credly.com/size/110x110/images/76d3a75b-96d5-4d8a-84ab-1a21c68d6d07/Cisco_Networking_Essentials.png)](https://www.credly.com/org/cisco/badge/networking-essentials)
+
+[![Python Essentials 1](https://images.credly.com/size/110x110/images/3065563d-f6fe-4e63-a5f3-918c8f3f6ce2/Cisco_Python_Essentials_1.png)](https://www.credly.com/org/cisco/badge/python-essentials-1)
+
+[![Python Essentials 2](https://images.credly.com/size/110x110/images/cf5f3c07-7c74-4067-9ed9-0f5f91aa8a3b/Cisco_Python_Essentials_2.png)](https://www.credly.com/org/cisco/badge/python-essentials-2)
+
+> 🔗 Clique nos selos para validar no **Credly** (links genéricos por enquanto — troque para os seus quando conquistar o badge).  
+
+---
+
+## 📂 Projetos em destaque
+
+- 🔎 [Estudos de Cibersegurança](#)  
+- 🐍 [Scripts em Python para automação](#)  
+- 🐧 [Laboratórios Linux + Redes com Docker](#)  
+
+---
+
+## 📫 Onde me encontrar
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/arleson-oliveira-229509339/)  
+- 📧 Email: **arlesonaquino.oliveira@gmail.com**  
+- 💾 GitHub: [aoliveira-it](https://github.com/aoliveira-it)  
+
