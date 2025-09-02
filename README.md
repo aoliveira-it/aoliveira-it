@@ -20,7 +20,7 @@ Aqui estão alguns dos selos mais reconhecidos da **Cisco Networking Academy** q
 
 [![Python Essentials 2](https://images.credly.com/size/110x110/images/cf5f3c07-7c74-4067-9ed9-0f5f91aa8a3b/Cisco_Python_Essentials_2.png)](https://www.credly.com/org/cisco/badge/python-essentials-2)
 
-> 🔗 Clique nos selos para validar no **Credly** (links genéricos por enquanto — troque para os seus quando conquistar o badge).  
+> 🔗 Clique nos selos para validar no **Credly**
 
 ---
 
