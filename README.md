@@ -12,7 +12,7 @@ Aqui estão alguns dos selos mais reconhecidos da **Cisco Networking Academy** q
 
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/0b3d3f77-0707-4f50-9ab6-1c06d1c07a1e/Cisco_Introduction_to_Cybersecurity.png)](https://www.credly.com/org/cisco/badge/introduction-to-cybersecurity)
 
-[![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/af8c6c47-2e37-4082-b9a9-3bb0f7afaf82/Cisco_Cybersecurity_Essentials.png)](https://www.credly.com/org/cisco/badge/cybersecurity-essentials)
+[![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/ee1c1d6a-f00e-4ba3-8f3f-27fd4d918d11/public_url)
 
 [![Networking Essentials](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/9ab74dba-2485-4018-9d1a-ef263496a3cc/public_url)
 
