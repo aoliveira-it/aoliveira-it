@@ -33,6 +33,6 @@ Aqui estão alguns dos selos mais reconhecidos da **Cisco Networking Academy** q
 ## 📫 Onde me encontrar
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arleson-oliveira-229509339/)  
-- 📧 Email: **arlesonaquino.oliveira@gmail.com**  
-- 💾 GitHub: [aoliveira-it](https://github.com/aoliveira-it)  
+- 📧 Email: **arlesonaquino.oliveira@gmail.com** 
+
 
