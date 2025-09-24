@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Arleson Oliveira  
 
 🎯 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🔐 Focado em **Segurança da Informação** e **Perícia Forense Digital**  
-💻 Explorando projetos em **redes, cibersegurança e automação**  
+🔐 Focado em **Desenvolvimento de Software** e **Segurança da Informação**  
+💻 Explorando projetos em **Redes, Cibersegurança, Automação em Python e Bash**  
 
 ---
 
