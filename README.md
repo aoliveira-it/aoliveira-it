@@ -2,7 +2,7 @@
 
 🎯 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🔐 Focado em **Desenvolvimento de Software, Segurança da Informação**
-💻 Explorando projetos em ** DevSecOps, Redes, Cibersegurança, Automação em Python e Bash** 
+💻 Explorando projetos em **DevSecOps, Redes, Cibersegurança, Automação em Python e Bash** 
 
 ---
 
