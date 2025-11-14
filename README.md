@@ -1,14 +1,16 @@
-# 👋 Olá, eu sou o Arleson Oliveira  
+# 👋 Olá, eu sou o **Arleson Oliveira**
 
-- 🎯 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 🔐 Focado em **Desenvolvimento de Software e Segurança da Informação**
-- 💻 Explorando projetos em **DevOps, Redes, Cibersegurança, Automação em Python e Bash**
+## 🎯 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em **Análise de Dados, Engenharia de Dados e Automação**. Estou construindo uma base sólida em Python, SQL, visualização de dados e infraestrutura para dados usando WSL, Linux e Docker.
+
+Meu foco atual é unir **dados + automação + infraestrutura** para criar soluções eficientes, seguras e escaláveis.
 
 ---
 
 ## 🚀 Badges & Certificados
 
-Aqui estão alguns dos selos mais reconhecidos da **Cisco Networking Academy** que estou estudando:
+Alguns dos certificados que fortalecem minha base em lógica, segurança e tecnologia:
 
 [![Introduction to Cybersecurity](https://images.credly.com/size/200x200/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/ee1c1d6a-f00e-4ba3-8f3f-27fd4d918d11/public_url)
 
@@ -22,17 +24,63 @@ Aqui estão alguns dos selos mais reconhecidos da **Cisco Networking Academy** q
 
 ---
 
-## 📂 Projetos em destaque
+## 🧰 Tech Stack
 
-- 🔎 [Estudos de Cibersegurança](#)  
-- 🐍 [Scripts em Python para automação](#)  
-- 🐧 [Laboratórios Linux + Redes com Docker](#)  
+### 🔹 Linguagens & Ferramentas
+
+* Python (Pandas, NumPy, Plotly, Scikit-Learn)
+* SQL (consultas, modelagem e análise)
+* Git & GitHub
+* Docker, WSL2, Linux
+* Power BI
+
+### 🔹 Conceitos & Habilidades
+
+* Análise Exploratória de Dados (EDA)
+* ETL / Automação de dados (Python)
+* DataOps e versionamento de pipelines
+* Visualização de dados
+* Redes e fundamentos de segurança
 
 ---
 
-## 📫 Onde me encontrar
+## 📂 Projetos em Destaque
+
+### 📊 **Dashboards e Análises Exploratórias**
+
+Construção de análises usando Python e ferramentas de visualização.
+
+### 🐍 **Scripts de Automação para ETL**
+
+Coleta, limpeza e transformação de dados para estudos e pipelines.
+
+### 🗄️ **Projetos SQL**
+
+Consultas avançadas, modelagem e pequenas bases para prática.
+
+### 🐧 **Ambientes de Dados com Linux + Docker**
+
+Laboratórios com containers, APIs, bancos de dados e pipelines.
+
+---
+
+## 🎯 Objetivos de Carreira
+
+* Aprimorar habilidades em **engenharia de dados e análise**
+* Construir pipelines reais usando Python + SQL + Docker
+* Desenvolver projetos sólidos para portfólio
+* Trabalhar como **Analista de Dados / Engenheiro de Dados**
+
+---
+
+
+
+---
+
+📌 *Este README está em constante evolução conforme avanço na minha jornada em dados.* 🚀
+
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arleson-oliveira-229509339/)  
-- 📧 Email: **arlesonaquino.oliveira@gmail.com** 
+- 📧 Email: ****
 
 
