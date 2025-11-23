@@ -28,11 +28,13 @@ Alguns dos certificados que fortalecem minha base em lógica, segurança e tecno
 
 ### 🔹 Linguagens & Ferramentas
 
-* Python (Pandas, NumPy, Plotly, Scikit-Learn)
+* Python (Pandas, NumPy, Plotly, Matplotlib)
 * SQL (consultas, modelagem e análise)
 * Git & GitHub
 * Docker, WSL2, Linux
 * Power BI
+* Exel
+* Estatística básica
 
 ### 🔹 Conceitos & Habilidades
 
