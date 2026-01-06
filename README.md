@@ -1,16 +1,29 @@
-# 👋 Olá, eu sou o **Arleson Oliveira**
+# 👋 Olá, eu sou o Arleson Oliveira
 
-## 🎯 Sobre mim
+## 🛡️ Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em **Análise de Dados, Engenharia de Dados e Automação**. Estou construindo uma base sólida em Python, SQL, visualização de dados e infraestrutura para dados usando WSL, Linux e Docker.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco inicial em **Segurança da Informação**.  
+Atualmente estou construindo uma base sólida em **fundamentos de segurança, redes, Linux e automação com Python**, com o objetivo de evoluir para áreas como **Blue Team, SOC e Segurança Defensiva**.
 
-Meu foco atual é unir **dados + automação + infraestrutura** para criar soluções eficientes, seguras e escaláveis.
+Tenho interesse em entender **como sistemas funcionam, como são atacados e como podem ser protegidos**, sempre com uma abordagem prática e estruturada.
 
 ---
 
-## 🚀 Badges & Certificados
+## 🎯 Áreas de Interesse em Segurança
 
-Alguns dos certificados que fortalecem minha base em lógica, segurança e tecnologia:
+- Fundamentos de Segurança da Informação
+- Blue Team / SOC (nível iniciante)
+- Segurança em redes
+- Análise básica de logs
+- Hardening de sistemas Linux
+- Automação para segurança com Python
+- Conceitos iniciais de DataOps aplicados à segurança
+
+---
+
+## 🚀 Certificados & Badges
+
+Alguns certificados que fortalecem minha base técnica em segurança, redes e programação:
 
 [![Introduction to Cybersecurity](https://images.credly.com/size/200x200/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/ee1c1d6a-f00e-4ba3-8f3f-27fd4d918d11/public_url)
 
@@ -20,69 +33,74 @@ Alguns dos certificados que fortalecem minha base em lógica, segurança e tecno
 
 [![Python Essentials 2](https://images.credly.com/size/110x110/images/cf5f3c07-7c74-4067-9ed9-0f5f91aa8a3b/Cisco_Python_Essentials_2.png)](https://www.credly.com/org/cisco/badge/python-essentials-2)
 
-> 🔗 Clique nos selos para validar no **Credly**
+> 🔗 Clique nos selos para validação no **Credly**
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (Base Atual)
 
-### 🔹 Linguagens & Ferramentas
+### 🔹 Sistemas & Infraestrutura
+- Linux (uso diário e laboratórios)
+- WSL2
+- Docker (ambientes de teste)
+- Git & GitHub
 
-* Python (Pandas, NumPy, Plotly, Matplotlib)
-* SQL (consultas, modelagem e análise)
-* Git & GitHub
-* Docker, WSL2, Linux
-* Power BI
-* Exel
-* Estatística básica
+### 🔹 Programação & Dados
+- Python (automação, scripts e análise básica)
+- SQL (consultas e fundamentos)
+- Power BI (nível iniciante)
+- Excel
 
-### 🔹 Conceitos & Habilidades
-
-* Análise Exploratória de Dados (EDA)
-* ETL / Automação de dados (Python)
-* DataOps e versionamento de pipelines
-* Visualização de dados
-* Redes e fundamentos de segurança
+### 🔹 Redes & Segurança
+- Conceitos de redes (TCP/IP, DNS, HTTP/HTTPS)
+- Fundamentos de segurança da informação
+- Noções iniciais de monitoramento e defesa
+- Boas práticas de segurança em ambientes Linux
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projetos em Desenvolvimento
 
-### 📊 **Dashboards e Análises Exploratórias**
+### 🔐 **Laboratórios de Segurança (Iniciante)**
+Ambientes de estudo com foco em:
+- Conceitos básicos de defesa
+- Configuração e análise de sistemas
+- Simulações controladas para aprendizado
 
-Construção de análises usando Python e ferramentas de visualização.
+### 🐧 **Linux para Segurança**
+- Hardening básico
+- Usuários, permissões e serviços
+- Automação de tarefas administrativas
 
-### 🐍 **Scripts de Automação para ETL**
-
-Coleta, limpeza e transformação de dados para estudos e pipelines.
+### 🐍 **Scripts em Python para Segurança**
+- Automação de rotinas
+- Coleta e organização de dados
+- Scripts auxiliares para estudos em segurança
 
 ### 🗄️ **Projetos SQL**
-
-Consultas avançadas, modelagem e pequenas bases para prática.
-
-### 🐧 **Ambientes de Dados com Linux + Docker**
-
-Laboratórios com containers, APIs, bancos de dados e pipelines.
+- Estruturação de bases simples
+- Consultas para análise e estudo
 
 ---
 
-## 🎯 Objetivos de Carreira
+## 🎯 Objetivos de Curto e Médio Prazo
 
-* Aprimorar habilidades em **engenharia de dados e análise**
-* Construir pipelines reais usando Python + SQL + Docker
-* Desenvolver projetos sólidos para portfólio
-* Trabalhar como **Analista de Dados / Engenheiro de Dados**
-
----
-
-
+- Consolidar fundamentos em **Segurança da Informação**
+- Evoluir para atuação como **SOC / Blue Team (nível júnior)**
+- Criar projetos práticos voltados à segurança defensiva
+- Aprimorar Linux, redes e automação
+- Desenvolver um portfólio técnico sólido no GitHub
 
 ---
 
-📌 *Este README está em constante evolução conforme avanço na minha jornada em dados.* 🚀
+## 📌 Em evolução
 
+Este repositório reflete minha **jornada de aprendizado em Segurança da Informação**.  
+Novos projetos, laboratórios e estudos serão adicionados conforme avanço tecnicamente.
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/arleson-oliveira-229509339/)  
-- 📧 Email: ****
+---
 
+## 🌐 Contato
 
+- 💼 LinkedIn: https://www.linkedin.com/in/arleson-oliveira-229509339/
+- 📧 Email: seu-email-aqui
