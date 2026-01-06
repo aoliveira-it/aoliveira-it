@@ -2,28 +2,29 @@
 
 ## 🛡️ Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco inicial em **Segurança da Informação**.  
-Atualmente estou construindo uma base sólida em **fundamentos de segurança, redes, Linux e automação com Python**, com o objetivo de evoluir para áreas como **Blue Team, SOC e Segurança Defensiva**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Segurança da Informação – Blue Team / SOC (iniciante)**.  
+Atualmente estou construindo uma base sólida em **monitoramento de segurança, análise de eventos, redes, Linux e automação com Python**, com o objetivo de atuar em **operações de segurança (SOC)** e funções defensivas.
 
-Tenho interesse em entender **como sistemas funcionam, como são atacados e como podem ser protegidos**, sempre com uma abordagem prática e estruturada.
+Meu foco é compreender **como ataques se manifestam nos sistemas, como identificá-los por meio de logs e alertas, e como responder de forma estruturada a incidentes de segurança**.
 
 ---
 
-## 🎯 Áreas de Interesse em Segurança
+## 🎯 Foco Técnico – Blue Team / SOC
 
-- Fundamentos de Segurança da Informação
-- Blue Team / SOC (nível iniciante)
-- Segurança em redes
-- Análise básica de logs
-- Hardening de sistemas Linux
-- Automação para segurança com Python
-- Conceitos iniciais de DataOps aplicados à segurança
+- Monitoramento de segurança (nível iniciante)
+- Análise básica de logs e eventos
+- Detecção de incidentes
+- Resposta inicial a incidentes
+- Fundamentos de SIEM e SOC
+- Segurança em ambientes Linux
+- Automação de tarefas defensivas com Python
+- Boas práticas de hardening
 
 ---
 
 ## 🚀 Certificados & Badges
 
-Alguns certificados que fortalecem minha base técnica em segurança, redes e programação:
+Certificações que fortalecem minha base em **segurança defensiva, redes e programação**:
 
 [![Introduction to Cybersecurity](https://images.credly.com/size/200x200/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/ee1c1d6a-f00e-4ba3-8f3f-27fd4d918d11/public_url)
 
@@ -37,66 +38,68 @@ Alguns certificados que fortalecem minha base técnica em segurança, redes e pr
 
 ---
 
-## 🧰 Tech Stack (Base Atual)
+## 🧰 Stack Técnica – Blue Team
 
 ### 🔹 Sistemas & Infraestrutura
-- Linux (uso diário e laboratórios)
+- Linux (administração e análise básica)
 - WSL2
-- Docker (ambientes de teste)
+- Docker (ambientes de laboratório)
 - Git & GitHub
 
-### 🔹 Programação & Dados
-- Python (automação, scripts e análise básica)
-- SQL (consultas e fundamentos)
-- Power BI (nível iniciante)
+### 🔹 Segurança & SOC
+- Conceitos de SOC (nível 1)
+- Fundamentos de SIEM
+- Análise de logs (sistema e rede)
+- Noções de resposta a incidentes
+- Monitoramento de eventos
+- Hardening básico de Linux
+
+### 🔹 Programação & Automação
+- Python (scripts para automação defensiva)
+- SQL (consultas básicas para análise)
+- Power BI (visualização simples de dados)
 - Excel
 
-### 🔹 Redes & Segurança
-- Conceitos de redes (TCP/IP, DNS, HTTP/HTTPS)
-- Fundamentos de segurança da informação
-- Noções iniciais de monitoramento e defesa
-- Boas práticas de segurança em ambientes Linux
+---
+
+## 📂 Projetos em Desenvolvimento – Blue Team
+
+### 🔍 **Análise de Logs**
+- Coleta e leitura de logs
+- Identificação de eventos suspeitos
+- Organização e correlação básica
+
+### 🛡️ **Laboratórios de SOC**
+- Simulações de incidentes
+- Análise de alertas
+- Documentação de resposta inicial
+
+### 🐧 **Linux Hardening**
+- Configuração segura de serviços
+- Usuários, permissões e auditoria
+- Boas práticas de segurança
+
+### 🐍 **Automação para Segurança**
+- Scripts em Python para apoio ao SOC
+- Coleta de dados e geração de relatórios
+- Rotinas defensivas automatizadas
 
 ---
 
-## 📂 Projetos em Desenvolvimento
+## 🎯 Objetivos de Carreira – Blue Team
 
-### 🔐 **Laboratórios de Segurança (Iniciante)**
-Ambientes de estudo com foco em:
-- Conceitos básicos de defesa
-- Configuração e análise de sistemas
-- Simulações controladas para aprendizado
-
-### 🐧 **Linux para Segurança**
-- Hardening básico
-- Usuários, permissões e serviços
-- Automação de tarefas administrativas
-
-### 🐍 **Scripts em Python para Segurança**
-- Automação de rotinas
-- Coleta e organização de dados
-- Scripts auxiliares para estudos em segurança
-
-### 🗄️ **Projetos SQL**
-- Estruturação de bases simples
-- Consultas para análise e estudo
+- Atuar como **Analista SOC Nível 1 / Blue Team Júnior**
+- Evoluir em monitoramento e resposta a incidentes
+- Desenvolver projetos práticos focados em defesa
+- Aprimorar análise de logs e eventos
+- Construir um portfólio técnico voltado à segurança defensiva
 
 ---
 
-## 🎯 Objetivos de Curto e Médio Prazo
+## 📌 Em evolução contínua
 
-- Consolidar fundamentos em **Segurança da Informação**
-- Evoluir para atuação como **SOC / Blue Team (nível júnior)**
-- Criar projetos práticos voltados à segurança defensiva
-- Aprimorar Linux, redes e automação
-- Desenvolver um portfólio técnico sólido no GitHub
-
----
-
-## 📌 Em evolução
-
-Este repositório reflete minha **jornada de aprendizado em Segurança da Informação**.  
-Novos projetos, laboratórios e estudos serão adicionados conforme avanço tecnicamente.
+Este repositório representa minha **formação prática em Blue Team / SOC**.  
+Novos laboratórios, automações e estudos serão adicionados continuamente conforme avanço técnico.
 
 ---
 
