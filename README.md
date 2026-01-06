@@ -103,4 +103,3 @@ Novos projetos, laboratórios e estudos serão adicionados conforme avanço tecn
 ## 🌐 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/arleson-oliveira-229509339/
-- 📧 Email: seu-email-aqui
