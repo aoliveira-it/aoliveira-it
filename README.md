@@ -62,30 +62,6 @@ Certificações que fortalecem minha base em **segurança defensiva, redes e pro
 
 ---
 
-## 📂 Projetos em Desenvolvimento – Blue Team
-
-### 🔍 **Análise de Logs**
-- Coleta e leitura de logs
-- Identificação de eventos suspeitos
-- Organização e correlação básica
-
-### 🛡️ **Laboratórios de SOC**
-- Simulações de incidentes
-- Análise de alertas
-- Documentação de resposta inicial
-
-### 🐧 **Linux Hardening**
-- Configuração segura de serviços
-- Usuários, permissões e auditoria
-- Boas práticas de segurança
-
-### 🐍 **Automação para Segurança**
-- Scripts em Python para apoio ao SOC
-- Coleta de dados e geração de relatórios
-- Rotinas defensivas automatizadas
-
----
-
 ## 🎯 Objetivos de Carreira – Blue Team
 
 - Atuar como **Analista SOC Nível 1 / Blue Team Júnior**
