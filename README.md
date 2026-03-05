@@ -55,7 +55,7 @@ Certificações que fortalecem minha base em **segurança defensiva, redes e pro
 - Hardening básico de Linux
 
 ### 🔹 Programação & Automação
-- Python (scripts para automação defensiva)
+- Bash/Python (scripts para automação ofensiva/defensiva)
 - SQL (consultas básicas para análise)
 - Power BI (visualização simples de dados)
 - Excel
