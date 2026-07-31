@@ -52,7 +52,7 @@ Iniciar carreira como **SOC Analyst (N1)** e evoluir para **Purple Team**, com f
 
 [![Networking Essentials](https://images.credly.com/size/200x200/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/9ab74dba-2485-4018-9d1a-ef263496a3cc/public_url)
 
-[![Networking Essentials](https://images.credly.com/size/200x200/images/https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png)](https://www.credly.com/badges/c3cb6c2b-bf8f-4492-80d2-b15c82ddbcb8/public_url)
+[![Junior Cybersecurity Analyst Career Path](https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png)](https://www.credly.com/badges/c3cb6c2b-bf8f-4492-80d2-b15c82ddbcb8/public_url)
 
 [![Python Essentials 1](https://images.credly.com/size/110x110/images/3065563d-f6fe-4e63-a5f3-918c8f3f6ce2/Cisco_Python_Essentials_1.png)](https://www.credly.com/org/cisco/badge/python-essentials-1)
 
