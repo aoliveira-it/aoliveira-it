@@ -1,50 +1,86 @@
-# 👋 Arleson Oliveira
+# Olá, eu sou Arleson Oliveira 👋
 
-## 🛡️ Cybersecurity | Blue Team → Purple Team (iniciante)
+**Cybersecurity | Hardware Hacking | IoT Security | Sistemas Embarcados**
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em **Segurança da Informação**.
+Sou estudante de Análise e Desenvolvimento de Sistemas e técnico em Mecatrônica, interessado na interseção entre **Cybersecurity, hardware, sistemas embarcados e dispositivos IoT**.
 
-Atualmente em formação na área de **Blue Team / SOC**, desenvolvendo habilidades em **monitoramento de eventos, análise de logs e resposta inicial a incidentes**.
+Atualmente, estou direcionando meus estudos para compreender como dispositivos e sistemas embarcados funcionam, como se comunicam e como podem ser analisados sob a perspectiva de segurança.
 
-Tenho interesse em evoluir para **Purple Team**, buscando entender tanto **como ataques acontecem** quanto **como detectá-los e mitigá-los**.
+## 🔐 Áreas de interesse
 
----
+* Hardware Hacking
+* IoT Security
+* Embedded Security
+* Sistemas Embarcados
+* Cybersecurity
+* Análise de dispositivos
+* Segurança de firmware
+* Protocolos e interfaces de comunicação
 
-## ⚙️ Core Skills (em desenvolvimento)
+## 🛠️ Tecnologias e ferramentas
 
-* Monitoramento de segurança (SOC nível inicial)
-* Análise de logs (Linux e rede)
-* Detecção básica de incidentes
-* Fundamentos de SIEM
-* Noções de MITRE ATT&CK
-* Hardening básico em Linux
-* Automação com Python e Bash
+### Sistemas e desenvolvimento
 
----
+* Linux
+* Windows
+* Python
+* Bash
+* Git / GitHub
+* Docker
 
-## 🧰 Tech Stack
+### Redes e Cybersecurity
 
-**Infraestrutura**
-Linux • WSL2 • Docker • Git
+* TCP/IP
+* Wireshark
+* Nmap
+* Wazuh
+* Suricata
 
-**Segurança**
-SIEM (fundamentos) • Log Analysis • Monitoring • Incident Response (básico)
+### Hardware e embarcados
 
-**Automação & Dados**
-Python • Bash • SQL • Power BI
+* ESP32
+* Microcontroladores
+* Eletrônica digital
+* Comunicação serial
+* UART
+* SPI
+* I²C
 
----
+## 🧪 Laboratórios e projetos
 
-## 🎯 Objetivo
+### Cybersecurity
 
-Iniciar carreira como **SOC Analyst (N1)** e evoluir para **Purple Team**, com foco em:
+Desenvolvimento de laboratórios práticos para estudar segurança da informação, análise de logs, eventos de segurança, redes e hardening em ambientes Linux.
 
-* Análise de eventos de segurança
-* Melhoria de detecção
-* Correlação de logs
-* Resposta a incidentes
+### Hardware Hacking & IoT
 
----
+Estudos práticos voltados à análise de dispositivos, microcontroladores, comunicação entre componentes e superfícies de ataque em sistemas IoT.
+
+### Sistemas Embarcados
+
+Projetos e experimentos com microcontroladores, firmware, comunicação entre dispositivos e desenvolvimento de sistemas embarcados.
+
+## 📂 Projetos em destaque
+
+🔹 **Lab AWS SOC**
+Laboratório prático para estudo de segurança em ambiente Linux/AWS.
+
+🔹 **Embedded Security Lab**
+Estudos e experimentos relacionados à segurança de sistemas embarcados.
+
+🔹 **ESP32 Security Lab**
+Experimentos com ESP32, comunicação, interfaces e conceitos de segurança de dispositivos IoT.
+
+## 🎯 Atualmente estudando
+
+* Hardware Hacking
+* Segurança de IoT
+* Sistemas Embarcados
+* Análise de interfaces de comunicação
+* Firmware
+* Linux
+* Python
+* Cybersecurity
 
 ## 📚 Certificações
 
@@ -71,7 +107,9 @@ Novos estudos, laboratórios e automações serão adicionados continuamente.
 
 ---
 
-## 🌐 Contato
+## 📫 Contato
 
-LinkedIn:
-https://www.linkedin.com/in/arleson-oliveira-229509339/
+**LinkedIn:** [linkedin.com/in/arleson-oliveira-it](https://www.linkedin.com/in/arleson-oliveira-it)
+
+**GitHub:** [github.com/aoliveira-it](https://github.com/aoliveira-it)
+
