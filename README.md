@@ -23,30 +23,6 @@ Interesse principal em:
 
 ---
 
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,docker,vscode" />
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
-
-<img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white">
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-
-<img src="https://img.shields.io/badge/QEMU%20%2F%20KVM-FF6600?style=for-the-badge">
-
-</p>
-
-<p align="center">
-UART • SPI • I²C • CAN • Firmware Analysis • Network Analysis
-</p>
-
----
-
 ## 🧪 Projects & Labs
 
 ### Cyber-Physical Systems Security Lab
@@ -72,6 +48,30 @@ Ambientes utilizados para:
 - IDS / IPS;
 - virtualização com QEMU/KVM;
 - OpenWrt.
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,docker,vscode" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+
+<img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white">
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+
+<img src="https://img.shields.io/badge/QEMU%20%2F%20KVM-FF6600?style=for-the-badge">
+
+</p>
+
+<p align="center">
+UART • SPI • I²C • CAN • Firmware Analysis • Network Analysis
+</p>
 
 ---
 
